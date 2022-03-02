@@ -10,7 +10,6 @@ class Person
     @age = age
     @corrector = Corrector.new
     @parent_permission = parent_permission
-
   end
 
   def of_age?
