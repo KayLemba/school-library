@@ -109,7 +109,7 @@ class Methods
     @person_array.each_with_index do |person, index|
       puts "#{index}) #{person[:output]}"
     end
-    person_selected = Integer(gets.chomp)
+    person_selected = 
     person_chosen = @person_array[person_selected][:object]
 
     print 'Date: '
@@ -120,11 +120,11 @@ class Methods
 
   def rental_list
     print 'ID of person: '
-    person_id = Integer(gets.chomp)
+    person_id = 
     puts 'Rental: '
 
     @rental_array.each do |rental|
-      if person_id == rental.person.id
+      if person_id == 
         puts "Date: #{rental.date}, Book: \"#{rental.book.title}\" by #{rental.book.author}"
       else
         puts 'ID does not exist'
