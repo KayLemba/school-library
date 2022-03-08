@@ -11,11 +11,11 @@
 ## Screenshots
 
 > |Screenshot 1|Screenshots 2|
-> |--------------|----------------|
-> |![](app1.png)|![](app2.png)|!
+> |------------|----------------|
+> |![](./img/photo1.png)|![](./img/photo2.png)|!
 > |Screenshot 3|Screenshots 4|
 > |--------------|----------------|
-> |![](app3.png)|![](app4.png)|!
+> |![](./img/photo3.png)|![](./img/photo4.png)|!
 
 
 Additional description about the project and its features.
@@ -39,13 +39,13 @@ Ruby
 
 ### Setup
 ```
-git clone git@github.com:Tchilo/school-library.git
+git clone git@github.com:KayLemba/school-library.git
 cd school-library.git
 ```
 
 ### Run Program
 ```
-ruby school-library.rb
+ruby main.rb
 ```
 
 
