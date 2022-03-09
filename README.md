@@ -56,8 +56,8 @@ ruby main.rb
 - Twitter: [@King-Kaylo1](https://twitter.com/King_Kaylo1) 
 - LinkedIn: [@kalolo-lemba](https://www.linkedin.com/in/https://www.linkedin.com/in/kalolo-lemba)
 
-## Collabrator
 
+👤 **Mithlesh**
 - GitHub: [@githubhandle](https://github.com/Mithi-code)
 - Twitter: [@twitterhandle](https://twitter.com/LazyMithlesh)
 
