@@ -26,19 +26,8 @@ class RentalUserInterface
     end
   end
 
-  # def save_rentals_data
-  #   save_rentals
-  # end
 
   private
-
-  # def save_rentals
-  #   rentals_data = []
-  #   @rentals.each do |rental|
-  #    rentals_data << {type: rental.person.class.to_s, personName: rental.person.name, personAge: rental.person.age,}
-  #   end
-  #   # File.write(@path, JSON.generate(rentals_data))
-  # end
 
   def date_input
     puts 'Date: '
