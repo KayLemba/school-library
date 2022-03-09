@@ -26,7 +26,6 @@ class RentalUserInterface
     end
   end
 
-
   private
 
   def date_input
