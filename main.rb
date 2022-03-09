@@ -1,4 +1,7 @@
 require_relative 'handlers'
+require './book_ui'
+require './person_ui'
+require './rental_ui'
 
 class App
   include Handlers
